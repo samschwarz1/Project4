@@ -1,0 +1,46 @@
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+      background-color: #f9f5f0;
+      color: #333;
+      text-align: center;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+ header {
+      background-color: #e3d5ca;
+      padding: 2em 1em;
+    }
+
+     h1,
+     h2 {
+         font-family: "Cormorant", serif;
+         color: #221e1a;
+         font-weight: 900;
+     }
+
+    nav a {
+      display: inline-block;
+      margin: 0.5em 1em;
+      text-decoration: none;
+      color: #5b4636;
+      font-weight: bold;
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 0 1em;
+      text-align: left;
+    }
+
+    footer {
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #777;
+    }
